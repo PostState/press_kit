@@ -6,3 +6,10 @@
 # PostState Scheme
 
 - [PostState Scheme](https://github.com/PostState/press_kit/blob/main/PostState_Scheme.png)
+
+# Tokens
+
+- [$UNIT]()
+- [$VOTE]()
+- [$LOCK]()
+- [$GATO]()
