@@ -5,4 +5,4 @@
 
 # PostState Scheme
 
-https://github.com/PostState/press_kit/blob/main/PostState_Scheme.png
+- [PostState Scheme](https://github.com/PostState/press_kit/blob/main/PostState_Scheme.png)
